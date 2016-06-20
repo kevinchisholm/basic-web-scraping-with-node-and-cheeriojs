@@ -1,0 +1,10 @@
+{
+  "name"         : "node-web-scraping-with-cheerio",
+  "version"      : "0.0.1",
+  "description"  : "Example code for Node.js connect.",
+  "author"       : "Kevin Chisholm",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
